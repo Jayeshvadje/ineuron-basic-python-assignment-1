@@ -1,0 +1,15 @@
+#Python program to do arithmetical operations addition and division
+"""assign the values to the variables"""
+
+a=9
+b=3
+
+#create third variable to store the vlaue of a and b  and then use addition oprator
+
+sum=a+b
+print(sum)
+
+#use division oprator
+
+div=a/b
+print(div)
